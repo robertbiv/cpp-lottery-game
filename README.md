@@ -1,5 +1,4 @@
-# Lottery Number Game
-
+# C++ Lottery Game
 A simple C++ console application that simulates a lottery game where users guess numbers and compare them against randomly generated lottery numbers.
 
 ## Description
